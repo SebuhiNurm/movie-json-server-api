@@ -1,9 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "movies": [
+    {
+      "id": "1",
+      "title": "Fury",
+      "posterImg": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10731391_p_v8_af.jpg",
+      "releaseYear": "2014",
+      "genre": "dram"
+    },
+    {
+      "id": "2",
+      "title": "The Raid",
+      "posterImg": "https://m.media-amazon.com/images/M/MV5BY2UyNDM1ZmUtM2E4Mi00ZDEzLWFhMTEtOGVlYjQ2NDZiYjg3XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+      "releaseYear": "2011",
+      "genre": "dram2"
+    },
+    {
+      "id": "3",
+      "title": "The asfas",
+      "posterImg": "https://m.media-amazon.com/images/M/MV5BY2UyNDM1ZmUtM2E4Mi00ZDEzLWFhMTEtOGVlYjQ2NDZiYjg3XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+      "releaseYear": "2011",
+      "genre": "dram2"
+    },
+    {
+      "id": "4",
+      "title": "The asfas",
+      "posterImg": "https://m.media-amazon.com/images/M/MV5BY2UyNDM1ZmUtM2E4Mi00ZDEzLWFhMTEtOGVlYjQ2NDZiYjg3XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+      "releaseYear": "2011",
+      "genre": "dram2"
+    },
+    {
+      "id": "5",
+      "title": "The asfas",
+      "posterImg": "https://m.media-amazon.com/images/M/MV5BY2UyNDM1ZmUtM2E4Mi00ZDEzLWFhMTEtOGVlYjQ2NDZiYjg3XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+      "releaseYear": "2011",
+      "genre": "dram2"
+    }
+  ]
 }
